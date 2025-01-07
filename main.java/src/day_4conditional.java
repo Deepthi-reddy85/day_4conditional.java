@@ -2,9 +2,10 @@ public class day_4conditional {
     public boolean cigarParty(int cigars, boolean isWeekend) {
         if(isWeekend){
           if(cigars>=40){
-            return true;
+            return true;-
           }else{
             return false;
+            
           }
           
           }else{
